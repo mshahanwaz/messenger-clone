@@ -48,7 +48,7 @@ function App() {
         <div className="app__headerTitle">Messenger</div>
       </div>
       <p>
-        Welcome <b>{username.toUpperCase()}</b>!
+        Welcome <b>{username}</b>!
       </p>
       {username === null || username === "" ? setUsername("Alien 👽") : true}
       <form className="app__form">

@@ -21,6 +21,10 @@
   font-weight: 470;
 }
 
+.MuiCardContent-root:last-child {
+  padding-bottom: 18px !important;
+}
+
 .app__form {
   padding: 15px 20px;
   z-index: 1;
