@@ -1,0 +1,31 @@
+.message {
+  padding: 10px 20px;
+  width: fit-content;
+  max-width: 80% !important;
+  word-wrap: break-word;
+  text-align: left;
+}
+
+.message__user {
+  margin-left: auto;
+  color: white;
+  text-align: left !important;
+}
+
+.message__userCard {
+  color: white !important;
+  background-color: #0b81ff !important;
+}
+
+.message__guestCard {
+  background-color: #e9e9eb !important;
+}
+
+.message__userName {
+  text-align: left;
+}
+
+.message__userName small {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  opacity: 0.5;
+}
