@@ -10,5 +10,8 @@ Real-time FaceBook messenger clone made with :heart: & ReactJS.
 
 ## ScreenShots:
 <p align="center">
-	<img src="/screenshot/1.png">
+	<kbd>
+		<img src="https://github.com/mshahanwaz/messenger-clone/blob/master/sceenshot/1.png" width=600px style="border: 2px solid black;">
+	</kbd>
 </p>
+
